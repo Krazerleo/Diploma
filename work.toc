@@ -1,0 +1,62 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Реферат}{2}{}%
+\contentsline {section}{Содержание}{3}{}%
+\contentsline {section}{Терминология}{5}{}%
+\contentsline {section}{Введение}{7}{}%
+\contentsline {section}{\numberline {1}Предметная область}{9}{}%
+\contentsline {subsection}{\numberline {1.1}Модель задачи}{9}{}%
+\contentsline {subsubsection}{\numberline {1.1.1}Представление RDF стандарта}{9}{}%
+\contentsline {subsubsection}{\numberline {1.1.2}Реализации RDF стандарта}{10}{}%
+\contentsline {paragraph}{RDF / XML}{10}{}%
+\contentsline {paragraph}{Notation3 (N3)}{11}{}%
+\contentsline {paragraph}{Turtle}{11}{}%
+\contentsline {subsubsection}{\numberline {1.1.3}Структура RDF триплета}{11}{}%
+\contentsline {subsection}{\numberline {1.2}Онтологии}{12}{}%
+\contentsline {subsubsection}{\numberline {1.2.1}RDF Schema}{12}{}%
+\contentsline {paragraph}{Class}{12}{}%
+\contentsline {paragraph}{SubClassOf}{12}{}%
+\contentsline {paragraph}{domain и range}{13}{}%
+\contentsline {paragraph}{label}{13}{}%
+\contentsline {subsubsection}{\numberline {1.2.2}Web Ontology Language}{13}{}%
+\contentsline {subsubsection}{\numberline {1.2.3}Применимость онтологии в данной работе}{13}{}%
+\contentsline {subsection}{\numberline {1.3}Используемые данные}{14}{}%
+\contentsline {paragraph}{EnumerationType}{15}{}%
+\contentsline {paragraph}{ObjectProperty}{15}{}%
+\contentsline {paragraph}{DatatypeProperty}{15}{}%
+\contentsline {paragraph}{inverse-label}{15}{}%
+\contentsline {subsection}{\numberline {1.4}Дополнительные данные}{16}{}%
+\contentsline {subsection}{\numberline {1.5}Визуализация RDF данных}{16}{}%
+\contentsline {subsection}{\numberline {1.6}Вывод по первой главе}{16}{}%
+\contentsline {section}{\numberline {2}Архитектура и алгоритмы}{17}{}%
+\contentsline {subsection}{\numberline {2.1}Клиентская часть приложения}{17}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}WPF}{17}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}WPF Prism}{18}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}Модель данных на уровне клиента}{18}{}%
+\contentsline {subsubsection}{\numberline {2.1.4}Обратные ссылки}{18}{}%
+\contentsline {subsection}{\numberline {2.2}Серверная часть приложения}{20}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}База данных}{20}{}%
+\contentsline {subsection}{\numberline {2.3}Визуализация RDF данных}{20}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Построение прямых и обратных таблиц}{21}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}Элементы разметки}{21}{}%
+\contentsline {subsubsection}{\numberline {2.3.3}Элементы привязки данных}{22}{}%
+\contentsline {subsubsection}{\numberline {2.3.4}Пример}{22}{}%
+\contentsline {subsection}{\numberline {2.4}Выводы по 2 главе}{23}{}%
+\contentsline {section}{\numberline {3}Программная реализация}{24}{}%
+\contentsline {subsection}{\numberline {3.1}Клиентская часть приложения}{24}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Модули}{24}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}Semantic Web Context}{24}{}%
+\contentsline {subsubsection}{\numberline {3.1.3}Ontology}{24}{}%
+\contentsline {subsubsection}{\numberline {3.1.4}DI и Навигация}{24}{}%
+\contentsline {subsubsection}{\numberline {3.1.5}Построение визуального отображения записи}{25}{}%
+\contentsline {subsubsection}{\numberline {3.1.6}Алгоритм поиска записи по префиксу имени}{25}{}%
+\contentsline {subsection}{\numberline {3.2}Архитектура серверной части приложения}{26}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Кэширование данных на стороне клиента}{27}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}Взаимодействие клиента с сервером}{28}{}%
+\contentsline {subsubsection}{\numberline {3.2.3}REST запросы}{28}{}%
+\contentsline {subsection}{\numberline {3.3}Обеспечение конкурентного доступа к данным}{28}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Система контроля версиями}{29}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}Отправка изменений на сервер}{29}{}%
+\contentsline {subsection}{\numberline {3.4}Выводы по третьей главе}{30}{}%
+\contentsline {section}{Заключение}{31}{}%
+\contentsline {section}{Литература}{32}{}%
+\contentsline {section}{Приложение}{34}{}%
