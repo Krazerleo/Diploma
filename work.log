@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.7)  2 MAY 2024 02:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.7)  3 MAY 2024 02:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1077,40 +1077,39 @@ File: _images/inverse_link.png Graphic file (type png)
 <use _images/inverse_link.png>
 Package pdftex.def Info: _images/inverse_link.png  used on input line 502.
 (pdftex.def)             Requested size: 475.16104pt x 137.20811pt.
- [19 <./_images/inverse_link.png>]
-Underfull \hbox (badness 2538) in paragraph at lines 525--526
+
+Underfull \hbox (badness 2538) in paragraph at lines 523--524
 []|\T2A/cmr/m/n/12 Graph Database мо-гут ис-поль-зо-вать и
  []
 
 
-Underfull \hbox (badness 5787) in paragraph at lines 531--531
+Underfull \hbox (badness 5787) in paragraph at lines 529--529
 []|\T2A/cmr/m/n/12 Структура Triplestore по па-мя-ти
  []
 
-[20] [21]
+[19 <./_images/inverse_link.png>] [20] [21]
 <_images/working_ontology.png, id=112, 633.36626pt x 167.62625pt>
 File: _images/working_ontology.png Graphic file (type png)
 <use _images/working_ontology.png>
-Package pdftex.def Info: _images/working_ontology.png  used on input line 632.
+Package pdftex.def Info: _images/working_ontology.png  used on input line 630.
 (pdftex.def)             Requested size: 475.16104pt x 125.75772pt.
- [22]
-<_images/working_rdf.png, id=116, 643.40375pt x 245.91875pt>
+<_images/working_rdf.png, id=113, 643.40375pt x 245.91875pt>
 File: _images/working_rdf.png Graphic file (type png)
 <use _images/working_rdf.png>
-Package pdftex.def Info: _images/working_rdf.png  used on input line 655.
+Package pdftex.def Info: _images/working_rdf.png  used on input line 653.
 (pdftex.def)             Requested size: 475.16104pt x 181.62053pt.
-<_images/rdf_vis_result.png, id=117, 151.56625pt x 211.79124pt>
+<_images/rdf_vis_result.png, id=114, 151.56625pt x 211.79124pt>
 File: _images/rdf_vis_result.png Graphic file (type png)
 <use _images/rdf_vis_result.png>
-Package pdftex.def Info: _images/rdf_vis_result.png  used on input line 663.
+Package pdftex.def Info: _images/rdf_vis_result.png  used on input line 661.
 (pdftex.def)             Requested size: 95.03075pt x 132.79254pt.
- [23 <./_images/working_ontology.png> <./_images/working_rdf.png> <./_images/rdf_vis_result.png>]
-Overfull \hbox (43.88023pt too wide) in paragraph at lines 691--692
+ [22 <./_images/working_ontology.png>] [23 <./_images/working_rdf.png> <./_images/rdf_vis_result.png>]
+Overfull \hbox (43.88023pt too wide) in paragraph at lines 690--691
 \T2A/cmr/m/n/12 ный мо-мент су-ще-ству-ют 2 клас-са: SemanticWebInMemoryContext и SemanticWebDatabaseContext,
  []
 
 
-Overfull \hbox (14.75966pt too wide) in paragraph at lines 694--695
+Overfull \hbox (14.75966pt too wide) in paragraph at lines 693--694
 \T2A/cmr/m/n/12 зу-е-мой в те-ку-щем кон-тек-сте он-то-ло-гии, как на-при-мер свой-ства ти-па rdfs:domain и rdfs:range.
  []
 
@@ -1118,79 +1117,95 @@ Overfull \hbox (14.75966pt too wide) in paragraph at lines 694--695
 <_images/composer_arch.png, id=127, 503.8825pt x 325.215pt>
 File: _images/composer_arch.png Graphic file (type png)
 <use _images/composer_arch.png>
-Package pdftex.def Info: _images/composer_arch.png  used on input line 717.
+Package pdftex.def Info: _images/composer_arch.png  used on input line 716.
 (pdftex.def)             Requested size: 237.58052pt x 153.33737pt.
- [25 <./_images/composer_arch.png>]
-<_images/prefix_tree.png, id=133, 423.5825pt x 372.39125pt>
+<_images/prefix_tree.png, id=128, 423.5825pt x 372.39125pt>
 File: _images/prefix_tree.png Graphic file (type png)
 <use _images/prefix_tree.png>
-Package pdftex.def Info: _images/prefix_tree.png  used on input line 731.
+Package pdftex.def Info: _images/prefix_tree.png  used on input line 730.
 (pdftex.def)             Requested size: 237.58052pt x 208.86723pt.
+ [25 <./_images/composer_arch.png>]
 <_images/data_access.png, id=134, 1748.5325pt x 1108.14pt>
 File: _images/data_access.png Graphic file (type png)
 <use _images/data_access.png>
-Package pdftex.def Info: _images/data_access.png  used on input line 741.
+Package pdftex.def Info: _images/data_access.png  used on input line 744.
 (pdftex.def)             Requested size: 332.61127pt x 210.7855pt.
- [26 <./_images/prefix_tree.png>]
-<_images/remote_conn.png, id=139, 753.81625pt x 456.70625pt>
+ [26 <./_images/prefix_tree.png> <./_images/data_access.png>]
+<_images/remote_conn.png, id=140, 1608.0075pt x 991.705pt>
 File: _images/remote_conn.png Graphic file (type png)
 <use _images/remote_conn.png>
-Package pdftex.def Info: _images/remote_conn.png  used on input line 755.
-(pdftex.def)             Requested size: 237.58052pt x 143.93988pt.
+Package pdftex.def Info: _images/remote_conn.png  used on input line 758.
+(pdftex.def)             Requested size: 237.58052pt x 146.50977pt.
 
-Overfull \hbox (6.4383pt too wide) in paragraph at lines 760--761
+Overfull \hbox (6.4383pt too wide) in paragraph at lines 763--764
 []\T2A/cmr/m/n/12 Чтобы аб-стра-ги-ро-вать-ся от ис-точ-ни-ка дан-ных, ис-поль-зу-ет-ся ин-тер-фейс IRecordLink.
  []
 
-[27 <./_images/data_access.png> <./_images/remote_conn.png>] [28]
-Overfull \hbox (28.72147pt too wide) in paragraph at lines 794--795
-\T2A/cmr/m/n/12 бы-ли рас-смот-ре-ны раз-лич-ные ме-то-ды и тех-но-ло-гии, как на-при-мер long-polling или WebSockets.
- []
-
-
-Overfull \hbox (5.2862pt too wide) in paragraph at lines 796--797
+[27 <./_images/remote_conn.png>] [28]
+Overfull \hbox (5.2862pt too wide) in paragraph at lines 815--816
 \T2A/cmr/m/n/12 ние кон-цеп-ции си-сте-мы кон-тро-ля вер-сий (ан-гл. Version Control System, сокр. VCS)[TODO].
  []
 
-[29]
-<_images/if_merge_success.png, id=151, 2109.8825pt x 971.63pt>
+<_images/if_merge_success.png, id=148, 2109.8825pt x 971.63pt>
 File: _images/if_merge_success.png Graphic file (type png)
 <use _images/if_merge_success.png>
-Package pdftex.def Info: _images/if_merge_success.png  used on input line 816.
+Package pdftex.def Info: _images/if_merge_success.png  used on input line 833.
 (pdftex.def)             Requested size: 332.61127pt x 153.16597pt.
-<_images/if_merge_failure.png, id=152, 1770.615pt x 788.9475pt>
+<_images/if_merge_failure.png, id=149, 1770.615pt x 788.9475pt>
 File: _images/if_merge_failure.png Graphic file (type png)
 <use _images/if_merge_failure.png>
-Package pdftex.def Info: _images/if_merge_failure.png  used on input line 825.
+Package pdftex.def Info: _images/if_merge_failure.png  used on input line 842.
 (pdftex.def)             Requested size: 332.61127pt x 148.20416pt.
- [30 <./_images/if_merge_success.png> <./_images/if_merge_failure.png>] [31] [32] [33]
-<_images/edit_window.png, id=168, 352.31625pt x 266.79675pt>
+[29]
+<_images/bad_node_pooling.png, id=153, 1587.9325pt x 540.0175pt>
+File: _images/bad_node_pooling.png Graphic file (type png)
+<use _images/bad_node_pooling.png>
+Package pdftex.def Info: _images/bad_node_pooling.png  used on input line 857.
+(pdftex.def)             Requested size: 332.61127pt x 113.11038pt.
+ [30 <./_images/if_merge_success.png> <./_images/if_merge_failure.png> <./_images/bad_node_pooling.png>]
+<_images/good_node_pooling.png, id=160, 1292.83pt x 624.3325pt>
+File: _images/good_node_pooling.png Graphic file (type png)
+<use _images/good_node_pooling.png>
+Package pdftex.def Info: _images/good_node_pooling.png  used on input line 865.
+(pdftex.def)             Requested size: 285.09952pt x 137.67747pt.
+<_images/concurrent_push_good.png, id=161, 1850.915pt x 2031.59pt>
+File: _images/concurrent_push_good.png Graphic file (type png)
+<use _images/concurrent_push_good.png>
+Package pdftex.def Info: _images/concurrent_push_good.png  used on input line 878.
+(pdftex.def)             Requested size: 380.13028pt x 417.22264pt.
+ [31 <./_images/good_node_pooling.png>] [32 <./_images/concurrent_push_good.png>] [33] [34] [35] [36]
+<_images/edit_window.png, id=183, 352.31625pt x 266.79675pt>
 File: _images/edit_window.png Graphic file (type png)
 <use _images/edit_window.png>
-Package pdftex.def Info: _images/edit_window.png  used on input line 918.
+Package pdftex.def Info: _images/edit_window.png  used on input line 986.
 (pdftex.def)             Requested size: 285.09952pt x 215.89655pt.
-<_images/table_view.png, id=169, 946.28531pt x 649.67719pt>
+<_images/table_view.png, id=184, 946.28531pt x 649.67719pt>
 File: _images/table_view.png Graphic file (type png)
 <use _images/table_view.png>
-Package pdftex.def Info: _images/table_view.png  used on input line 924.
+Package pdftex.def Info: _images/table_view.png  used on input line 993.
 (pdftex.def)             Requested size: 380.13028pt x 260.97655pt.
- [34 <./_images/edit_window.png> <./_images/table_view.png>] (work.aux)
+<_images/merge_tool.png, id=185, 435.42674pt x 123.46124pt>
+File: _images/merge_tool.png Graphic file (type png)
+<use _images/merge_tool.png>
+Package pdftex.def Info: _images/merge_tool.png  used on input line 1000.
+(pdftex.def)             Requested size: 380.13028pt x 107.78717pt.
+ [37 <./_images/edit_window.png> <./_images/table_view.png>] [38 <./_images/merge_tool.png>] (work.aux)
 Package logreq Info: Writing requests to 'work.run.xml'.
 \openout1 = `work.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17702 strings out of 476315
- 329622 string characters out of 5783421
+ 17733 strings out of 476315
+ 330543 string characters out of 5783421
  1881068 words of memory out of 5000000
- 37872 multiletter control sequences out of 15000+600000
+ 37899 multiletter control sequences out of 15000+600000
  522229 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,17n,68p,1803b,1803s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Leonid_Krazer\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1200.pk> <C:\Users\Leonid_Krazer\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Leonid_Krazer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Leonid_Krazer\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Leonid_Krazer\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Leonid_Krazer\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk><C:/Users/Leonid_Krazer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Leonid_Krazer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on work.pdf (34 pages, 738951 bytes).
+Output written on work.pdf (38 pages, 1028767 bytes).
 PDF statistics:
- 586 PDF objects out of 1000 (max. 8388607)
+ 611 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
 
