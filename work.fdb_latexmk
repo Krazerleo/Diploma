@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber work"] 1714676621 "work.bcf" "work.bbl" "work" 1714677845 0
-  "work.bcf" 1714677845 107256 37944f086e49c9f669ff4a2cacd2c95a "pdflatex"
+["biber work"] 0 "work.bcf" "work.bbl" "work" 1714769386 -1
+  "work.bcf" 1714769386 107256 37944f086e49c9f669ff4a2cacd2c95a "pdflatex"
   (generated)
   "work.bbl"
   "work.blg"
   (rewritten before read)
-["pdflatex"] 1714677843 "c:/projects/FinalWorks/Diploma/diploma/work.tex" "work.pdf" "work" 1714677845 0
+["pdflatex"] 1714769383 "c:/projects/FinalWorks/Diploma/diploma/work.tex" "work.pdf" "work" 1714769386 0
   "C:/Users/Leonid_Krazer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1714399922 124181 6d27238e3e85ba350b0c0c19a0fcc2c4 ""
   "C:/Users/Leonid_Krazer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1683458921 14064 64c4b70ce7f75f51fe077504fb222dd3 ""
   "C:/Users/Leonid_Krazer/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk" 1683531308 29472 5a5abb17d30b96fab6100f096fe835f2 ""
@@ -140,7 +140,6 @@
   "_images/edit_window.png" 1711343591 29554 e2f125bc7e7356f19bcfee7517f16954 ""
   "_images/ent_all.png" 1707335587 35131 111133f2a5e98b133eb9cd2dd2ef7540 ""
   "_images/eric.png" 1707333352 14722 a46bc25b403e4b7db079c53f1b598755 ""
-  "_images/good_node_pooling.png" 1714669670 82891 ee7a7dd1762cc6926d37de40d7d4f835 ""
   "_images/if_merge_failure.png" 1714588823 148260 79d4b4700ec36cc02a9defe15d654ef5 ""
   "_images/if_merge_success.png" 1714588811 194736 bca2ec696806b6740c9b0acbb0087ab9 ""
   "_images/inverse_link.png" 1706805449 19588 246cc5f1a0ac1a2646f767781b6cddd5 ""
@@ -148,20 +147,20 @@
   "_images/mvvm.png" 1706804869 19392 0fc172fa943fdfc3d8ee3558b3fb593e ""
   "_images/prefix_tree.png" 1707927836 30310 aeba66448842d475b1d89b3358142897 ""
   "_images/rdf_eric_razbor.png" 1707334068 25324 58b95180ade4396a508453582380f7ec ""
-  "_images/rdf_vis_result.png" 1706818545 9344 70d1277d9b8913a623b804f1dc0d1430 ""
+  "_images/rdf_vis_result.png" 1714757809 20973 7a9876437ab098a609777b3d950efbc4 ""
   "_images/record_literal.png" 1706803239 28666 408d5b54a335d0302c4bace0764ea95f ""
   "_images/remote_conn.png" 1714667902 138690 5d26d95736a0e37a5f406b36b241f595 ""
   "_images/sys_obj_all.png" 1707335894 37768 38757d81235760a30e23c4362b04430f ""
   "_images/table_view.png" 1711343798 57187 8f428d21507f1a1ae35fc7f23f639be5 ""
-  "_images/working_ontology.png" 1706817351 19584 01222284b5a40bbcc032185f46d325f4 ""
+  "_images/tree_view.png" 1714764939 28112 d7ecc406205caf0cffc9a97cf8754b8c ""
   "_images/working_rdf.png" 1706818018 31187 1c678e1fd563e34b4b554e8f922490dc ""
-  "c:/projects/FinalWorks/Diploma/diploma/work.tex" 1714677842 109585 8a6d70c46d80d704d3d5e2c1e12ae9aa ""
+  "c:/projects/FinalWorks/Diploma/diploma/work.tex" 1714769383 118381 171e7d00639750bb98ff2852ae1e68bd ""
   "title_page.pdf" 1707336880 63034 1ecb37f861643202dceccff0ad72f269 ""
-  "work.aux" 1714677845 11467 507f5210c3f171f41e9e59fcb2edb9a2 "pdflatex"
-  "work.bbl" 1714676624 0 d41d8cd98f00b204e9800998ecf8427e "biber work"
-  "work.run.xml" 1714677845 2255 695dc63f86d1995eef4b3bd06b2e6235 "pdflatex"
-  "work.tex" 1714677842 109585 8a6d70c46d80d704d3d5e2c1e12ae9aa ""
-  "work.toc" 1714677845 5410 32c93c11e83784fb3572bfe191c65e4e "pdflatex"
+  "work.aux" 1714769386 14021 802b3b6a4905565dce639b74e9c70179 "pdflatex"
+  "work.bbl" 1714762074 0 d41d8cd98f00b204e9800998ecf8427e "biber work"
+  "work.run.xml" 1714769386 2255 695dc63f86d1995eef4b3bd06b2e6235 "pdflatex"
+  "work.tex" 1714769383 118381 171e7d00639750bb98ff2852ae1e68bd ""
+  "work.toc" 1714769386 5410 eeef4281003c7228267b67d6c41ab758 "pdflatex"
   (generated)
   "work.aux"
   "work.bcf"
